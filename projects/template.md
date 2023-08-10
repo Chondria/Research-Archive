@@ -34,7 +34,7 @@ _solution design_
 - Secondary goal.
 - Tertiary goal.
 
-### Contributors && Authors 
+### Contributors and Authors 
 
 - [name](#/link)
 - [name](#/link) 
