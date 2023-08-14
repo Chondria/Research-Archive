@@ -46,7 +46,7 @@ Phase 3:
 ## Possible challenges
 
 - The complexity of p2p networking protocols and their implementation.
-- RPC implementation and p2p gosip.
+- Substrate RPC p2p networking implementation.
 - Pluggable incentive mechanism research.
 - Community acceptance and support.
 
